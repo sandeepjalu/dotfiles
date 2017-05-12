@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/var/www/html/webaroo/admin-teamchat/static'
+let g:netrw_dirhist_2='/var/www/html/webaroo/admin-teamchat'
+let g:netrw_dirhist_3='/home/sandeep/webaroo/gupshup-templates/smeDashboard/server'
+let g:netrw_dirhist_4='/var/lib/tomcat7/webapps/bots/infra/botwidget/supportApp'
+let g:netrw_dirhist_5='/var/lib/tomcat7/webapps/bots/infra/botwidget/build'
+let g:netrw_dirhist_6='/home/sandeep/webaroo/biz-apis/Portal/DevPortal/build'
+let g:netrw_dirhist_7='/home/sandeep/sandeepjalu/gulp-project/scripts'
+let g:netrw_dirhist_8='/home/sandeep/.vim'
